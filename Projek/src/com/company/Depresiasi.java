@@ -36,7 +36,7 @@ public class Depresiasi {
                     System.out.println("==========================================");
                 } else {
                     System.out.println("==========================================");
-                    System.out.println("Aset\t\tTahun\t Akumulasi\t Sisa");
+                    System.out.println("Aset\t\t Tahun\t Akumulasi\t Sisa");
                     System.out.println("==========================================");
                     for (int masa = awal; masa <= akhir; masa++) {
                         double akumulasi = masa * penyusutan;

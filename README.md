@@ -1,4 +1,4 @@
-# Depresiasi Per Periode Aktiva Aktif <br>
+# Depresiasi Per Periode Aktiva Tetap <br>
 
 ### [Dokumentasi Program Perhitungan Depresiasi](Dokumentasi.md)
 ## Faktor-Faktor yang Memengaruhi Biaya Penyusutan <br>

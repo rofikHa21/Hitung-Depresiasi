@@ -1,4 +1,6 @@
 # Depresiasi Per Periode Aktiva Aktif <br>
+
+### [Dokumentasi Program Perhitungan Depresiasi](Dokumentasi.md)
 ## Faktor-Faktor yang Memengaruhi Biaya Penyusutan <br>
 Adapun beberapa faktor yang mempengaruhi biaya penyusutan adalah:
 
